@@ -95,3 +95,12 @@ confirm
 
 //document.write (answer);
 
+//&& - і
+//|| - або
+//! - отрицание 
+
+//const isChecked = false;
+//isClose = true;
+
+//console.log (isChecked || !isClose);
+
